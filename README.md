@@ -10,6 +10,7 @@ From there, heatmaps can be generated using `dl-heatmap.sh`.
 
 To compute AOI hits, use `dl-aois.sh`.
 
+Note that as there is no raw participant data several scripts may not work out of the box.
 
 And the following tables can be generated (data, not formatting) using:
 - Table 1: Can be determined using `dl-compare-maps.sh`
